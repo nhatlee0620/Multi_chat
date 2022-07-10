@@ -1,0 +1,11 @@
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\bin\Debug\Client.exe.config
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\bin\Debug\Client.exe
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\bin\Debug\Client.pdb
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.Client.resources
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.exe
+E:\18DT3\Csharp\Z_Solution_Multi_Chat\Client\obj\Debug\Client.pdb
